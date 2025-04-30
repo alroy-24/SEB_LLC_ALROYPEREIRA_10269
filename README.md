@@ -88,9 +88,6 @@ npm start
 npm run dev
 ```
 
-The application will be available at:
-- Frontend: http://localhost:5173
-- Backend: http://localhost:5000
 
 ## API Documentation
 
@@ -109,10 +106,6 @@ The API documentation can be found in the server/routes directory. Main endpoint
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+#Demo Video-https://drive.google.com/drive/folders/1fp7DvW_f2QF4cW8ihwDAf0KFwsXqzTkP?usp=sharing
 
-This project is licensed under the ISC License.
 
-## Contact
-
-For any queries or support, please contact the project maintainers.
