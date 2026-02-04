@@ -54,7 +54,7 @@ A full-stack web application for managing and accessing educational courses, bui
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/alroy-24/SEB_LLC_ALROYPEREIRA_10269.git]
 ```
 
 2. Install dependencies:
